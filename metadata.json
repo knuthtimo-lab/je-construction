@@ -1,0 +1,7 @@
+{
+  "name": "JE Construction Services",
+  "description": "Professional website for JE Construction Services, LLC, a premier heavy-civil construction company in South Texas specializing in industrial, municipal, and commercial projects.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
